@@ -1,0 +1,10 @@
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\ujiantengahsemester\ujiantengahsemester\bin\Debug\ujiantengahsemester.exe
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\ujiantengahsemester\ujiantengahsemester\bin\Debug\ujiantengahsemester.pdb
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\ujiantengahsemester\ujiantengahsemester\bin\Debug\ujiantengahsemester.xml
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\ujiantengahsemester\ujiantengahsemester\obj\x86\Debug\ujiantengahsemester.MainMenu.resources
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\ujiantengahsemester\ujiantengahsemester\obj\x86\Debug\ujiantengahsemester.Resources.resources
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\ujiantengahsemester\ujiantengahsemester\obj\x86\Debug\ujiantengahsemester.SplashScreen1.resources
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\ujiantengahsemester\ujiantengahsemester\obj\x86\Debug\kuisandriansyah.vbproj.GenerateResource.Cache
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\ujiantengahsemester\ujiantengahsemester\obj\x86\Debug\ujiantengahsemester.exe
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\ujiantengahsemester\ujiantengahsemester\obj\x86\Debug\ujiantengahsemester.xml
+C:\Users\ian\OneDrive - Yayasan Vitka\PROJECT VISUAL BASIC IAN\ujiantengahsemester\ujiantengahsemester\obj\x86\Debug\ujiantengahsemester.pdb
